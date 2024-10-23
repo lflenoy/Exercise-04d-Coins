@@ -1,6 +1,9 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+- Created a new gameobject for Coins, and add the logic for picking them up
+
+- Used the tilemap palette to place them
 
 ## References
 
@@ -14,4 +17,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Leya Flenoy
